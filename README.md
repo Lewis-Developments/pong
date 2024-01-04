@@ -1,3 +1,3 @@
 # pong
-Simple game of pong
+Simple game of pong\n
 :O
